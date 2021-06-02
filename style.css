@@ -81,7 +81,7 @@ html{
 }
 #home::before{
     content: "";
-    background: url('https://github.com/0703riya/My-repository/blob/4467968730b57d2797c0d0ff691ce23aeee362a1/bg%201.jpg') no-repeat center center/cover;
+    background: url('bg_1.jpg') no-repeat center center/cover;
     position: absolute;
     top: 0px;
     left: opx;
