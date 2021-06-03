@@ -23,9 +23,6 @@
 #services{
     flex-direction: column;
 }
-
-
-
 /* Clients Section */
 #clients{
    flex-wrap: wrap;
