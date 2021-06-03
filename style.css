@@ -124,15 +124,11 @@ html{
     font-family: 'Bree Serif', serif;
 }
 /* Clients section */
-#client-section{
-   
-    height: 344px;
 
-}
 #client-section::before{
     content: "";
     position:absolute;
-    background: url('bg.jpg') no-repeat center center/cover;
+    background: url('../bg.jpg') no-repeat center center/cover;
     width: 100%;
     height: 54%;
     z-index: -1;
@@ -144,7 +140,7 @@ html{
     align-items: center;
 }
 .client-item{
-    padding: 34px;
+    padding: 27px;
 }
 #clients img{
     height: 140px;
@@ -156,7 +152,7 @@ html{
 #contact::before{
     content:"";
     position: absolute;
-    background: url('contact.webp') no-repeat center center/cover;
+    background: url('../contact.webp') no-repeat center center/cover;
     width: 100%;
     height: 100%;
     z-index:-1;
